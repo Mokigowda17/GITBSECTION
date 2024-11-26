@@ -5,4 +5,8 @@ Acharya institute of technology...
 
 =======
 Bhuvi
+<<<<<<< HEAD
 >>>>>>> 3264263 (Bhuvi commit in m1.txt)
+=======
+Hazelwood
+>>>>>>> deea6f2 (Hazelwood commit in m1.txt)
