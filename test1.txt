@@ -1,6 +1,3 @@
 South test
-<<<<<<< HEAD
 North test..
-=======
 North test
->>>>>>> denim
