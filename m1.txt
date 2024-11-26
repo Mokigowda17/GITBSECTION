@@ -13,4 +13,8 @@ Hazelwood
 >>>>>>> deea6f2 (Hazelwood commit in m1.txt)
 =======
 Dayal
+<<<<<<< HEAD
 >>>>>>> 9429e3d (Dayal commit in m1.txt)
+=======
+Krunal
+>>>>>>> e2f2d19 (Krunal commit in m1.txt)
