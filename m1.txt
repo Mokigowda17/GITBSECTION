@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Moki Gowda
 Chikkamagaluru
 Acharya institute of technology...
 
+=======
+Bhuvi
+>>>>>>> 3264263 (Bhuvi commit in m1.txt)
