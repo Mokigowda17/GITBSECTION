@@ -9,4 +9,8 @@ Bhuvi
 >>>>>>> 3264263 (Bhuvi commit in m1.txt)
 =======
 Hazelwood
+<<<<<<< HEAD
 >>>>>>> deea6f2 (Hazelwood commit in m1.txt)
+=======
+Dayal
+>>>>>>> 9429e3d (Dayal commit in m1.txt)
