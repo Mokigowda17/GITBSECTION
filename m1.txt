@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+Bhuvi
+Hazelwood
+Dayal
+Krunal
+moki
+=======
+<<<<<<< HEAD
 Moki Gowda
 Chikkamagaluru
 Acharya institute of technology...
@@ -18,3 +25,4 @@ Dayal
 =======
 Krunal
 >>>>>>> e2f2d19 (Krunal commit in m1.txt)
+>>>>>>> master
